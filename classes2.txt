@@ -5,7 +5,9 @@ beef_carpaccio
 beef_tartare
 beet_salad
 beignets
-churros
+bibimbap
+bread_pudding
+breakfachurros
 clam_chowder
 club_sandwich
 crab_cakes
